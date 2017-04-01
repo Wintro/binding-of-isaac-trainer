@@ -32,14 +32,14 @@ This simple, text-based The Binding of Isaac trainer allows you to modify many a
 
 ## Installation ##
 #### Regular compile ####
-* Clone this repository. [`git clone https://github.com/Wintro/nemia.git`]
-* Navigate to the root folder of the repository. [`cd nemia`]
+* Clone this repository. [`git clone https://github.com/Wintro/binding-of-isaac-trainer.git`]
+* Navigate to the root folder of the repository. [`cd binding-of-isaac-trainer`]
 * In root folder of the repository compile the program. [`make`]
-* The compiler program is then in the root folder of the repository and can be executed. [`./nemia`]
+* The compiler program is then in the root folder of the repository and can be executed. [`./trainer`]
 
 #### Full installation ####
 * To install the program to `/usr/local/bin`, run `sudo make install` in the root folder of the repository.
-* The program can then be executed from any place on the system using `nemia`.
+* The program can then be executed from any place on the system using `trainer`.
 
 #### Full uninstallation ####
 * To uninstall the program from `/usr/local/bin`, run `sudo make uninstall` in the root folder of the repository.
